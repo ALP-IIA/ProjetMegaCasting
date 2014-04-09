@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <p>
-            test
+            test, second test
         </p>
         <?php
         // put your code here
